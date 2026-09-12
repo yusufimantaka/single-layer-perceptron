@@ -1,0 +1,1 @@
+This repo is for constructing single layer perceptron from scratch. Take inspo from Andrej Karpathy micrograd.
